@@ -1,0 +1,2 @@
+-keep class org.joda.time.** { *; }
+-dontwarn org.joda.convert.**
