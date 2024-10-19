@@ -6,7 +6,7 @@ class BookProvider with ChangeNotifier {
   List<Book> _books = [];
   List<Book> get books => _books;
 
-  List<Book> _favorites = [];
+  final List<Book> _favorites = [];
   List<Book> get favorites => _favorites;
 
   Future<void> loadBooks() async {
