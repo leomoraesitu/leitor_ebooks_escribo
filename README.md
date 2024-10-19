@@ -5,7 +5,7 @@ Instruções:
 - Clique na Tag com borda azul localizada no canto superior direito de cada livro pra salvá-lo nos Favoritos. O ícone ficará vermelho.
 - Clique no label "Favoritos" na AppBar para visualizar os livros marcados
 - Para desfavoritar, basta clicar no ícone vermelho na capa
-- Versionamento em GIT/GitHub com branchs main, develop e release
+- Versionamento em GIT/GitHub com branchs main, develop e release (v 0.1.0)
 ## 💻 Tecnologias utilizadas:
 <img src="https://github.com/user-attachments/assets/938beb0b-cf77-47f1-8c0a-75af98f09dfb" width="30"> Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/39ac5aee-49b3-4a87-9da5-f6fc4d34b86b" width="30"> Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
